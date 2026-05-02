@@ -68,7 +68,7 @@ SHAP values provide a mathematically grounded approach to attributing model pred
 
 **Aditi Chauhan** — MEng AI Engineer, University of Leicester  
 Research interests: Explainable AI, Responsible AI, Financial Services AI, Applied ML  
-Contact: chauhanaditi2209@gmail.com | [LinkedIn](https://linkedin.com/in/aditichauhan)
+Contact: aditiddn15@gmail.com | [LinkedIn](https://linkedin.com/in/aditichauhan)
 
 ---
 
